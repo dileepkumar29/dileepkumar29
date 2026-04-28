@@ -38,8 +38,9 @@ understanding.
 •💼 Machine Learning Trainee (INDIAN SERVERS Pvt.Ltd)
 
 🌐 Portfolio
-🎯 
+🎯 https://dileepkumar29.github.io/Portofolio/
+
 📫 Let’s Connect!
-⏰ Availability: 10 days 📧 Best way to reach: vinaypoduri888@gmail.com
+⏰ Availability: Best way to reach: kethadileepkumar2002@gmail.com
 
      
