@@ -10,10 +10,10 @@
 Project	Description
 Dynamic pricing prediction system using machine learning models such as XGBoost, LightGBM, CatBoost, and
 Random Forest Regressor for accurate price forecasting.
-• Performed data collection, preprocessing, and feature engineering to improve model accuracy and handle real-time market trends
+ Performed data collection, preprocessing, and feature engineering to improve model accuracy and handle real-time market trends
 and customer behavior data.
-• Designed and implemented machine learning module to train, evaluate, and optimize models for real-time pricing adjustments.
-• Built user and admin modules for e-commerce system enabling product management, price updates, and customer interaction
+Designed and implemented machine learning module to train, evaluate, and optimize models for real-time pricing adjustments.
+Built user and admin modules for e-commerce system enabling product management, price updates, and customer interaction
 workflows.
 
  Visual Question Answering (VQA) model to generate answers from image-based queries by integrating computer
