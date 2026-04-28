@@ -1,12 +1,10 @@
-## Hi there 👋
-
-Hi there, I'm Dileep kumar
+## Hi there,I'm Dileep kumar👋 
 
 🎓 About Me
 
-🎓 Specializing in Artificial Intelligence & Machine Learning (2025 B.Tech Graduate)
-🚀 Web Devloper
-🌱 Always learning new tools & technologies 
+•🎓 Specializing in Artificial Intelligence & Machine Learning (2025 B.Tech Graduate)
+•🚀 Web Devloper
+•🌱 Always learning new tools & technologies 
 
 💼 Top Projects
 Project	Description
@@ -28,13 +26,20 @@ understanding.
         
 
 💻 Skills
-Web Technologies : HTML , CSS ,JavaScript
-languages :python,SQL
-Data: Pandas, NumPy
-Web: Streamlit
-Tools: Git, VS Code
+•Web Technologies : HTML , CSS ,JavaScript
+•languages :python,SQL
+•Data: Pandas, NumPy
+•Web: Streamlit
+•Tools: Git, VS Code
 
 🏅 Certifications
-💼 AI Short-Term Internship (AIMER SOCIETY)
-💼 IoT Workshop (TECKY BOT)
-💼 Machine Learning Trainee (INDIAN SERVERS Pvt.Ltd)
+•💼 AI Short-Term Internship (AIMER SOCIETY)
+•💼 IoT Workshop (TECKY BOT)
+•💼 Machine Learning Trainee (INDIAN SERVERS Pvt.Ltd)
+
+🌐 Portfolio
+🎯 
+📫 Let’s Connect!
+⏰ Availability: 10 days 📧 Best way to reach: vinaypoduri888@gmail.com
+
+     
